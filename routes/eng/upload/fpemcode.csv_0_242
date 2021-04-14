@@ -1,0 +1,18 @@
+field_id,code,value
+FLD_44,10101010301,Asset - Current Deposits (USD)
+FLD_44,10102010100,Liability - Bond Issued - Principal
+FLD_44,10202010100,"	Expense - Interest Expense - Bond issued"
+FLD_44,10102010200,Liability - Bond Issued at AC - Accrued interest payable
+FLD_44,10101030201,"	Asset - Sovereign loan at FVTPL - Cost"
+FLD_128,1000001,Bonds 
+FLD_146,USD,US Dollars
+FLD_128,1000002,Loan
+FLD_146,MYR,Malaysian Ringgit
+FLD_128,1000003,Currency Swap
+FLD_86,ACT,Actual
+FLD_43,BUDGT,Budget
+FLD_43,ALC,Allocation
+FLD_86,ADB_ADJ,ADB Adjustment
+FLD_43,FIN,Financial
+FLD_43,RECON,Reconciliation
+FLD_113,1,FAIR BANK LTD

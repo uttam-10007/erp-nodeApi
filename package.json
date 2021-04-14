@@ -1,0 +1,43 @@
+{
+  "name": "svayamApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "date-format": "^1.2.0",
+    "dateformat": "^3.0.3",
+    "exceljs": "^4.1.1",
+    "express": "^4.16.4",
+    "fast-csv": "^4.1.3",
+    "http": "0.0.0",
+    "kafka-node": "^3.0.1",
+    "moment": "^2.24.0",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "no-kafka": "^3.4.3",
+    "node-hive": "^0.1.1",
+    "nodemailer": "^6.1.1",
+    "nodemailer-express-handlebars": "^3.1.0",
+    "nools": "^0.4.4",
+    "numeral": "^2.0.6",
+    "pg": "^7.18.1",
+    "properties-reader": "0.0.16",
+    "public-ip": "^2.4.0",
+    "read-excel-file": "^4.0.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "shelljs": "^0.8.3",
+    "sqlstring": "^2.3.1",
+    "thrift": "0.12.0",
+    "thrift-hive": "0.0.7",
+    "webhdfs": "^1.2.0"
+  }
+}

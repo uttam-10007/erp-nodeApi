@@ -1,0 +1,21 @@
+,code,value
+MD0002,Small Text,Small Text
+MD0002,Code,Code
+MD0002,Long Code,Long Code
+MD0002,Amount,Amount
+MD0002,Percentage,Percentage
+MD0002,Small Number,Small Number
+MD0002,Number,Number
+MD0002,Long Number,Long Number
+MD0002,Text,Text
+MD0002,Medium Text,Medium Text
+MD0002,Long Text,Long Text
+MD0002,Document,Document
+MD0002,Image,Image
+MD0002,Data Sheet,Data Sheet
+MD0003,CV,CV - Can only take values from a previously defined code-value set
+MD0003,CMV,CMV - Can only take values from a previously defined code-multi-value set
+MD0003,NA,NA - Can take any value
+MD0004,Y ,Y - Yes
+MD0004,N,N - No
+MD0004,M,M - Multiple Hierarchy
